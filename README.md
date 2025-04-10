@@ -1,2 +1,8 @@
-# Caesar-Cypher
-Encrypt and decrypt like a secret agent! 🔐 This Python Caesar Cipher program lets you encode your messages by shifting letters in the alphabet. It’s like sending secret letters through a time machine—just be careful, only the right key can unlock your secrets! 🕵️‍♂️💬
+# 🔐 Caesar Cipher - Encrypt and Decrypt Messages
+
+A Python program that implements the classic Caesar Cipher. Encrypt your messages with a shift of letters and decrypt them with the right key. Perfect for secret codes and cryptography enthusiasts!
+
+## 🚀 Features
+- Encrypt messages with a Caesar shift
+- Decrypt messages using the correct key
+- Easy-to-use command line interface
